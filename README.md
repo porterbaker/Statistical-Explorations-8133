@@ -1,1 +1,3 @@
-# Statistical-Explorations-8133
+# Statistical Explorations
+Jackson Baker
+
